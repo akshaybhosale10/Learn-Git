@@ -1,6 +1,8 @@
 public class Welcome{
 public static void main(String[] args)
 {
-   System.out.println("Welcome Akshay");
+    int a,b;
+
+   System.out.println("Welcome Akshay"+(a+b));
 }
 }
